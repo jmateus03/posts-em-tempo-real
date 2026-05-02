@@ -4,7 +4,7 @@ import { supabase } from "./supabase"
 import PrivateRoute from './components/PrivateRouter'
 import LoginPagina from "./pages/LoginPagina"
 import CadastroPagina from "./pages/CadastroPagina"
-import PaginaPosts from './pages/paginaPosts'
+import PaginaPosts from './pages/PaginaPosts'
 import CriarPosts from './pages/CriarPosts'
 
 function App() {
